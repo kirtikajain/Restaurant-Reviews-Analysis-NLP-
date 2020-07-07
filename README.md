@@ -8,3 +8,12 @@ In this project we first created a Corpus i.e. bag of words model using NLP i.e.
 
 Here is the sample of dataset:
 ![](dataset.png)
+
+Here is the code snippet:
+![](code.png)
+
+Here is the Corpus created:
+![](corpus.png)
+
+The output with 73% accuracy:
+![](output.png)
