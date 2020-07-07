@@ -7,4 +7,4 @@ The dataset taken in this project is a tab-separated values (TSV) file which is 
 In this project we first created a Corpus i.e. bag of words model using NLP i.e. by using NLTK and Re module. Then we created our classifier using naive bayes Machine learning Algorithm to predict the probability if the reviews are affirmative or disapproving.
 
 Here is the sample of dataset:
-![](Screenshot (40).png)
+![](dataset.png)
